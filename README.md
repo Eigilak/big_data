@@ -1,15 +1,14 @@
 # Big data
 Eksamensprojekt i Big Data.
 
-##Dependencies
+## Dependencies
 - Numpy
 - Pandas
 - Scikit-learn
 - JUPYTER
 
 
-#Data
-
+# Data
 Telco Customer Churn: https://www.kaggle.com/blastchar/telco-customer-churn/version/1?select=WA_Fn-UseC_-Telco-Customer-Churn.csv  
 
 
