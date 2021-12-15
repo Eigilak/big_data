@@ -1,0 +1,100 @@
+#recipes,
+#documents,
+#exercises,
+#foods,
+#videos,
+#workout,
+#meals {
+  width: 100%;
+  background-color: #FCFCFC;
+  font-size: 14px;
+  color: black; }
+  #recipes .title,
+  #documents .title,
+  #exercises .title,
+  #foods .title,
+  #videos .title,
+  #workout .title,
+  #meals .title {
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    margin: 40px 30px 50px 40px;
+    color: #7f7f7f; }
+    #recipes .title-head,
+    #documents .title-head,
+    #exercises .title-head,
+    #foods .title-head,
+    #videos .title-head,
+    #workout .title-head,
+    #meals .title-head {
+      font-size: 24px;
+      font-weight: bold;
+      color: black; }
+
+.paper-content .zf-button {
+  height: 48px; }
+
+.paper-content .input-pair {
+  display: flex;
+  justify-content: space-between; }
+  .paper-content .input-pair .MuiFormControl-root {
+    width: 45%; }
+
+#recipes .flag img {
+  width: 20px;
+  height: 15px; }
+
+#videos .picture img {
+  width: 64px;
+  height: 36px; }
+
+.simple-modal {
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+  .simple-modal .modal-paper {
+    color: black;
+    width: 800px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 500px 200px rgba(0, 0, 0, 0.05); }
+    .simple-modal .modal-paper ::-webkit-scrollbar {
+      width: 5px; }
+    .simple-modal .modal-paper ::-webkit-scrollbar-track {
+      background: #f1f1f1; }
+    .simple-modal .modal-paper ::-webkit-scrollbar-thumb {
+      background: #d4d4d4; }
+    .simple-modal .modal-paper ::-webkit-scrollbar-thumb:hover {
+      background: #d4d4d4; }
+    .simple-modal .modal-paper .modal-header {
+      height: 60px;
+      border: none;
+      display: flex;
+      justify-content: end; }
+    .simple-modal .modal-paper .paper-content {
+      margin: 0 20px;
+      padding: 0 30px 30px; }
+      .simple-modal .modal-paper .paper-content .modal-title {
+        font-size: 23px;
+        font-weight: 800; }
+      .simple-modal .modal-paper .paper-content .modal-text {
+        font-weight: 400;
+        color: #333;
+        margin-bottom: 31px; }
+      .simple-modal .modal-paper .paper-content .modal-body {
+        padding: 0;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center; }
+        .simple-modal .modal-paper .paper-content .modal-body .modalInput {
+          width: 60%;
+          padding-right: 30px;
+          box-shadow: 26px 0 0px -25px #eeeeee; }
+
+
+
+
+/*# sourceMappingURL=documents.bccc10756dfe01a58587.css.map*/
